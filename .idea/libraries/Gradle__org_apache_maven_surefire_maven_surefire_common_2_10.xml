@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.surefire:maven-surefire-common:2.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.surefire/maven-surefire-common/2.10/e10b1b1f469ca9bfd7c339e7b00a0606d1604aab/maven-surefire-common-2.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.surefire/maven-surefire-common/2.10/3598f859b290db62a352a7b18ec220bee6baf701/maven-surefire-common-2.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

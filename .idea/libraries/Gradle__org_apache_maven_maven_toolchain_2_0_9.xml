@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven:maven-toolchain:2.0.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-toolchain/2.0.9/db9f7eb8b6708b7ee46db0f0357fed43ef555793/maven-toolchain-2.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-toolchain/2.0.9/7073c6125baa57ecfecff26f6f1266e5225953d8/maven-toolchain-2.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

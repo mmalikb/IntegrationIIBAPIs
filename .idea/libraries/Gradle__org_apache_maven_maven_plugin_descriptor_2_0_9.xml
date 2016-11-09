@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven:maven-plugin-descriptor:2.0.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-plugin-descriptor/2.0.9/10443d038cd57feb4a027e7dfe09bed0925a1953/maven-plugin-descriptor-2.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-plugin-descriptor/2.0.9/4ff96934a02961c321f7ec0807bd813291a0f2c6/maven-plugin-descriptor-2.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: commons-httpclient:commons-httpclient:2.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-httpclient/commons-httpclient/2.0.2/48856bef6c64eb9689eab125197fdefc399c7858/commons-httpclient-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-httpclient/commons-httpclient/2.0.2/47ab385c4debfd165b62f4dc747966b63ea72c0c/commons-httpclient-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

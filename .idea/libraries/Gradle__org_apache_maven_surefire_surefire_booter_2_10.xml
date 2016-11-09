@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.surefire:surefire-booter:2.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.surefire/surefire-booter/2.10/e5f7051621d91509778a0c48077b1d050800a065/surefire-booter-2.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.surefire/surefire-booter/2.10/6cea4fa3c2b8d5f1d62e5d7679e598e905ad93f5/surefire-booter-2.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

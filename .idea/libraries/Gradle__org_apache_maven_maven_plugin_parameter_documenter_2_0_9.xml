@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven:maven-plugin-parameter-documenter:2.0.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-plugin-parameter-documenter/2.0.9/f481e2677384f6a0ab96633567d736e70657e042/maven-plugin-parameter-documenter-2.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-plugin-parameter-documenter/2.0.9/e9e6b8aeb7409d5a10eec832bd2677ad429a3a49/maven-plugin-parameter-documenter-2.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
